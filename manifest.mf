@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: sourcecode.SDHikes
+Class-Path: lib/esri_mo20.jar lib/esri_mo20img.jar lib/esri_mo20res.jar
+
+
+
+
